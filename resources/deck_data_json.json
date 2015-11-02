@@ -1,0 +1,67 @@
+{ "cards": [ 
+{ "suite":"spades", "value":"seven", "int_value":"7", "card_id":"spades seven", "card_id_num":"17"
+},
+{ "suite":"spades", "value":"eight", "int_value":"8", "card_id":"spades eight", "card_id_num":"18"
+},
+{ "suite":"spades", "value":"nine", "int_value":"9", "card_id":"spades nine", "card_id_num":"19"
+},
+{ "suite":"spades", "value":"ten", "int_value":"10", "card_id":"spades ten", "card_id_num":"20"
+},
+{ "suite":"spades", "value":"jack", "int_value":"11", "card_id":"spades jack", "card_id_num":"21"
+},
+{ "suite":"spades", "value":"queen", "int_value":"12", "card_id":"spades queen", "card_id_num":"22"
+},
+{ "suite":"spades", "value":"king", "int_value":"13", "card_id":"spades king", "card_id_num":"23"
+},
+{ "suite":"spades", "value":"ace", "int_value":"14", "card_id":"spades ace", "card_id_num":"24"
+},
+{ "suite":"diamonds", "value":"seven", "int_value":"7", "card_id":"diamonds seven", "card_id_num":"27"
+},
+{ "suite":"diamonds", "value":"eight", "int_value":"8", "card_id":"diamonds eight", "card_id_num":"28"
+},
+{ "suite":"diamonds", "value":"nine", "int_value":"9", "card_id":"diamonds nine", "card_id_num":"29"
+},
+{ "suite":"diamonds", "value":"ten", "int_value":"10", "card_id":"diamonds ten", "card_id_num":"30"
+},
+{ "suite":"diamonds", "value":"jack", "int_value":"11", "card_id":"diamonds jack", "card_id_num":"31"
+},
+{ "suite":"diamonds", "value":"queen", "int_value":"12", "card_id":"diamonds queen", "card_id_num":"32"
+},
+{ "suite":"diamonds", "value":"king", "int_value":"13", "card_id":"diamonds king", "card_id_num":"33"
+},
+{ "suite":"diamonds", "value":"ace", "int_value":"14", "card_id":"diamonds ace", "card_id_num":"34"
+},
+{ "suite":"hearts", "value":"seven", "int_value":"7", "card_id":"hearts seven", "card_id_num":"37"
+},
+{ "suite":"hearts", "value":"eight", "int_value":"8", "card_id":"hearts eight", "card_id_num":"38"
+},
+{ "suite":"hearts", "value":"nine", "int_value":"9", "card_id":"hearts nine", "card_id_num":"39"
+},
+{ "suite":"hearts", "value":"ten", "int_value":"10", "card_id":"hearts ten", "card_id_num":"40"
+},
+{ "suite":"hearts", "value":"jack", "int_value":"11", "card_id":"hearts jack", "card_id_num":"41"
+},
+{ "suite":"hearts", "value":"queen", "int_value":"12", "card_id":"hearts queen", "card_id_num":"42"
+},
+{ "suite":"hearts", "value":"king", "int_value":"13", "card_id":"hearts king", "card_id_num":"43"
+},
+{ "suite":"hearts", "value":"ace", "int_value":"14", "card_id":"hearts ace", "card_id_num":"44"
+},
+{ "suite":"clubs", "value":"seven", "int_value":"7", "card_id":"clubs seven", "card_id_num":"47"
+},
+{ "suite":"clubs", "value":"eight", "int_value":"8", "card_id":"clubs eight", "card_id_num":"48"
+},
+{ "suite":"clubs", "value":"nine", "int_value":"9", "card_id":"clubs nine", "card_id_num":"49"
+},
+{ "suite":"clubs", "value":"ten", "int_value":"10", "card_id":"clubs ten", "card_id_num":"50"
+},
+{ "suite":"clubs", "value":"jack", "int_value":"11", "card_id":"clubs jack", "card_id_num":"51"
+},
+{ "suite":"clubs", "value":"queen", "int_value":"12", "card_id":"clubs queen", "card_id_num":"52"
+},
+{ "suite":"clubs", "value":"king", "int_value":"13", "card_id":"clubs king", "card_id_num":"53"
+},
+{ "suite":"clubs", "value":"ace", "int_value":"14", "card_id":"clubs ace", "card_id_num":"54"
+}
+] 
+}
